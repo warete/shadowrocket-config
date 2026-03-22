@@ -38,3 +38,11 @@ DOMAIN-KEYWORD,anthropic.com
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
+DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,pencil.dev
+DOMAIN-SUFFIX,skills.sh
+DOMAIN-KEYWORD,codex
+DOMAIN-SUFFIX,neuron-ai.dev
+DOMAIN-SUFFIX,api.z.ai
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,googleapis.com
